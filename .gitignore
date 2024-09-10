@@ -1,4 +1,6 @@
 *.class
+*.jar
+*.war
 
 **/__pycache__/
 **/lib/
