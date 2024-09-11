@@ -1,12 +1,10 @@
 *.class
-*.jar
 *.war
 
 **/__pycache__/
 **/lib/
 **/lib64/
 **/azenv
-**/.
 
 .vagrant/
 
